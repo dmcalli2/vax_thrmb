@@ -11,3 +11,7 @@ decrypt_file("vaccinationthrombosisv6.1.pdf.encryptr.bin", "vaccinationthrombosi
 ```
 
 The decryption password is OrangeNotebookBlackPen.
+
+## Downloading
+
+For convenience, we have uploaded a decrypted version of the file "vaccinationthrombosisv6.1_decrypted.pdf". Click on the green "code" button. Then choose download, and this entire repository, including the encrypted and decrypted files and the encryption keys will be downloaded. 
